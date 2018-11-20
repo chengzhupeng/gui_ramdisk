@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/start_gui.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=mypython
+Name=mypython
+Comment[en_US]=run mypython when boot
+Comment=run mypython when boot
+
